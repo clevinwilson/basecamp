@@ -1,0 +1,23 @@
+{
+  "name": "basecamp",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/clevinwilson/basecamp#readme",
+  "bugs": {
+    "url": "https://github.com/clevinwilson/basecamp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clevinwilson/basecamp.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.9.10"
+  }
+}
